@@ -1,0 +1,19 @@
+{
+  "name": "prompt-to-page",
+  "version": "1.0.0",
+  "description": "Soft Orchard: fictional 3D jelly-fruit playground inspired by Marina Budarina",
+  "scripts": {
+    "test": "node verify.cjs"
+  },
+  "keywords": [],
+  "author": "Raj Balakrishnan",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "three": "0.180.0"
+  },
+  "devDependencies": {
+    "playwright": "^1.58.2"
+  },
+  "private": true
+}
